@@ -30,6 +30,7 @@
 
 # Spring Security 의 인증 아키텍처
 
+![1](https://user-images.githubusercontent.com/73545607/132025261-d1a3db11-fbb5-4997-a61f-d1560e43f233.png)
 
 
 
@@ -62,6 +63,7 @@
 >Spring Security의 filter는 서블릿 필터를 기반으로 작동한다.
 
 
+![2](https://user-images.githubusercontent.com/73545607/132025281-90453b43-3a79-427b-bb52-645f51eaf5a5.png)
 
 
 
